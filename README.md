@@ -64,6 +64,4 @@ Here’s a **compact list** of essential dependencies:
 
  **Deployment & Security**  
 - `docker` – Containerization  
-- `cors`, `helmet` – Security  
-
-Would you like further refinements?
+- `cors`, `helmet` – Security
